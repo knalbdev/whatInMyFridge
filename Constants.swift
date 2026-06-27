@@ -1,0 +1,13 @@
+//
+//  Constants.swift
+//  WhatInMyFridge
+//
+//  Created by Setianing Budi on 27/06/26.
+//
+
+import Foundation
+
+enum Constants {
+    static let aiEndpoint = "https://oss.dicoding-ai.dev/v1/chat/completions"
+    static let aiModel = "openai/gpt-oss-20b"
+}
